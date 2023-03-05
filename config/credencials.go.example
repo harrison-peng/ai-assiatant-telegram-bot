@@ -1,0 +1,7 @@
+package config
+
+var MongoDbHost = "db host"
+var MongoDbUsername = "db username"
+var MongoDbPassword = "db password"
+
+var TgBotToken = "tg bot token"

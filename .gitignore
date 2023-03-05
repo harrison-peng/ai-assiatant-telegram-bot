@@ -1,0 +1,8 @@
+.DS_Store
+
+.vscode/
+.idea/
+
+.env
+config/credencials.go
+bin/
